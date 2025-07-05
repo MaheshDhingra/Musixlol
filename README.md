@@ -1,6 +1,6 @@
 # Musixlol
 
-Welcome to Musixlol! This is a placeholder README for the Musixlol project.
+Welcome to Musixlol! An music streaming discord bot!
 
 ## About
 
